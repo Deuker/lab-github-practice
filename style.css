@@ -1,0 +1,125 @@
+body {
+  background-color: white;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+body {
+  font-family:'Poppins';
+}
+
+h1 {
+  font-size: 40px;
+  margin: 80px 0px 0px 0px;
+}
+
+header > div {
+  padding: 0 25px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid lightgray;
+}
+
+.header_pic_npm_logo {
+  height: 20px;
+  margin: 10px 0px;
+}
+
+.header_pic_magnifying_glass {
+  height: 20px;
+}
+
+nav {
+  width: 600px;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav a {
+  text-decoration: none;
+  color: black;
+}
+
+.blackHeart {
+  width: 20px;
+  margin-right: 1rem;
+}
+
+#section1 {
+  background-color:red;
+  text-align:center;
+  
+}
+.main_title {
+
+}
+.title {
+  font-size:20px;
+  padding: 60px 0px;
+  margin: 0px 500px 0px 500px;
+}
+
+#section2 {
+  text-align:center;
+  margin: 20px 400px 20px 400px;
+}
+
+.pic_triangle_hexagon {
+  width: 200px;
+  margin: 0 auto;
+  padding: 80px 15px;
+}
+
+.boxes_sec1 {
+  text-decoration:none;
+  padding:15px 30px 15px 30px;
+  margin:50px 0px 50px 0px;
+}
+
+.redbox {
+  background-color:#fb3e44;
+  color:white;
+  margin:0px 30px 0px 0px;
+}
+
+.whitebox {
+  background-color:white;
+  color:black;
+  margin:0px 0px 0px 30px;
+}
+
+#section3 {
+  display:flex;
+  
+}
+.container{
+width: 200px;
+margin: 0 auto;
+padding: 80px 15px;
+}
+
+.container_pic{
+height: 40px;
+width: 40px;
+}
+
+.h3 {
+  color:#fb3e44;
+}
+
+#section4 {
+  text-align:center;
+}
+
+#section4 a {
+  background-color:black;
+  text-decoration:none;
+  color:white;
+  padding:15px 70px 15px 70px;
+}
